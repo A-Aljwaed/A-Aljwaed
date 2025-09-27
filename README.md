@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there 👋, I'm Ahmad
 
 💻 IT-Enthusiast driven by a passion for making people's work easier through digital solutions.  
@@ -11,3 +13,5 @@
 ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRhYms5bGNtM2pzMTM2amc5M3FpN2xjN3N3eDB5ZWlja2hpcWFmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmadaljwaed&color=blue)
+
+</div>
